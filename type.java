@@ -1,6 +1,3 @@
-//Ryan Arce
-//Final Project
-
 public enum Type {
     NONE("None"),
     NORMAL("Normal"),
