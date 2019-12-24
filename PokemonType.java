@@ -1,7 +1,3 @@
-//Ryan Arce
-//CS253
-//Final Project
-
 import java.util.HashMap;
 
 public class PokemonType {
